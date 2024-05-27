@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/index.css */
+body {
+  transition: background-color 0.5s, color 0.5s;
+  background-color: black;
+  /* color: white; */
+}
